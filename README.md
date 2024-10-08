@@ -1,9 +1,13 @@
 # Informatika24umb
 
 TI 24
+
 About
+
 TI 24 is a website committed to providing high-quality information across various fields, supported by continuous collaboration and innovation. We strive to deliver a positive and beneficial experience for all visitors.
+
 Core Values
+
 1. Creative (Kreatif)
 
 We consistently innovate to create original and beneficial solutions
